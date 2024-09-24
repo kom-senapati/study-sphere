@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![study-sphere](https://socialify.git.ci/kom-senapati/study-sphere/image?font=Rokkitt&language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Light)
 
-## Getting Started
+<p align="center">
+  <img src="https://img.shields.io/badge/npm-v.0.21.0-red"  />
+  <img src="https://img.shields.io/badge/LICENSE-MIT-green"  />
+</p>
 
-First, run the development server:
+### :star2: About
+**Study Sphere** is an all-in-one learning platform designed to enhance your study experience. The project offers three key features:
+1. **Notes**: Manage and organize your notes efficiently.
+2. **Quiz**: Test your knowledge with quizzes tailored to various subjects.
+3. **Study Buddy (AI Mentor)**: An AI-powered mentor to help you with your learning, offering guidance and insights like a personal tutor.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+With a clean, intuitive interface and responsive design, Study Sphere makes it easy to keep track of your studies and improve your learning outcomes.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### :movie_camera: Demo
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=a5dYdKVxN4k">
+        <img src="https://img.freepik.com/free-vector/modern-red-video-media-player-template_1017-23409.jpg"/>
+    </a>
+</p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### :hammer_and_wrench: Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/CopilotKit-🪁-black" alt="CopilotKit" />
+</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### :outbox_tray: Set up
+To get Study Sphere up and running, follow these steps:
 
-## Learn More
+1. Clone the repository:
+   ```sh
+   git clone https://quira.sh/repo/kom-senapati/study-sphere.git
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+2. Install NPM packages:
+   ```sh
+   bun install
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. Add your environment variables in `.env.local`:
+   ```js
+   GROQ_API_KEY='YOUR API KEY HERE'
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+4. Start the development server:
+   ```sh
+   bun run dev
+   ```
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### :email: Contact
+- GitHub: [kom-senapati](https://github.com/kom-senapati)
+- Twitter: [@kom_senapati](https://x.com/kom_senapati)
