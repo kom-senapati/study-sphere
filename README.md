@@ -32,7 +32,7 @@ To get Study Sphere up and running, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://quira.sh/repo/kom-senapati/study-sphere.git
+   git clone https://github.com/kom-senapati/study-sphere.git
    ```
 
 2. Install NPM packages:
